@@ -6,4 +6,4 @@
 - Run project in MiniKube locally
 
 ### Useful link
-[metrics](https://www.civo.com/marketplace/metrics-server)
+[Add metrics in CIVO](https://www.civo.com/marketplace/metrics-server)
