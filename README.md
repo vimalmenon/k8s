@@ -1,6 +1,7 @@
 # k8s
 
 ### Todo List
+- [ ] Find the name for App
 - [ ] Argo CD
 - [ ] Helm chart
 - [ ] Run project in MiniKube locally
