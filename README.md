@@ -12,3 +12,7 @@
 
 ### Useful link
 [Add metrics in CIVO](https://www.civo.com/marketplace/metrics-server)
+
+```sh
+export KUBECONFIG=/path/to/admin.conf
+```
