@@ -1,10 +1,10 @@
 # k8s
 
 ### Todo List
+- [x] Helm chart
+- [x] Run project in MiniKube locally
 - [ ] Find the name for App
 - [ ] Argo CD
-- [ ] Helm chart
-- [ ] Run project in MiniKube locally
 - [ ] Set up CI CD
 - [ ] Check memory usage
 - [ ] Set Kube Config file
