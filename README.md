@@ -1,9 +1,13 @@
 # k8s
 
-### Needs to be implemented
-- Argo CD
-- Helm chart
-- Run project in MiniKube locally
+### Todo List
+- [ ] Argo CD
+- [ ] Helm chart
+- [ ] Run project in MiniKube locally
+- [ ] Set up CI CD
+- [ ] Check memory usage
+- [ ] Set Kube Config file
+
 
 ### Useful link
 [Add metrics in CIVO](https://www.civo.com/marketplace/metrics-server)
