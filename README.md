@@ -2,10 +2,11 @@
 
 ### Todo List
 - [ ] Find the name for App
-- [ ] Argo CD
-- [ ] Set up CI CD
 - [ ] Check memory usage
 - [ ] Set Kube Config file
+- [ ] Checking ISTIO
+- [ ] Set up CI CD
+- [ ] Argo CD
 
 
 ### Useful link
