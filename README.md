@@ -9,10 +9,18 @@
 - [ ] Argo CD
 
 
-### Useful CMD
+### Useful CMDdocker
 Start Minikube Cluster
 ```sh
-minikube start -n 2 -p local-cluster
+minikube start -n 2 -p local
+```
+Stop Minikube Cluster
+```sh
+minikube stop -p local
+```
+Delete Minikube Cluster
+```sh
+minikube delete -p local
 ```
 Check Helm lint
 ```sh
