@@ -1,1 +1,8 @@
 ApplicationName: Local
+
+Apps: [DynamoDB]
+
+NameSpaces: 
+  DynamoDb:
+    name: dynamo-db
+    tags: [db, app]

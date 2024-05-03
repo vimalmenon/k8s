@@ -15,6 +15,14 @@ Start Minikube Cluster
 ```sh
 minikube start -n 2 -p local-cluster
 ```
+Check Helm lint
+```sh
+helm lint
+```
+Helm Install 
+```sh
+helm install local ./
+```
 Change Kubeconfig file
 ```sh
 export KUBECONFIG=/path/to/admin.conf
