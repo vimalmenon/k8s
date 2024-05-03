@@ -1,4 +1,4 @@
-ApplicationName: Local
+ApplicationDeployment: Local
 
 Apps: [DynamoDB]
 

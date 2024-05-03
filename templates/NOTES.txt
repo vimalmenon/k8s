@@ -1,2 +1,2 @@
 Application List:
-Name: {{ .Values.ApplicationName }}
+Name: {{ .Values.ApplicationDeployment }}
