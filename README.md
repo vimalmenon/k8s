@@ -9,9 +9,7 @@
 - [ ] Argo CD
 
 
-### Useful link
-[Add metrics in CIVO](https://www.civo.com/marketplace/metrics-server)
-
+### Useful CMD
 Start Minikube Cluster
 ```sh
 minikube start -n 2 -p local-cluster
@@ -28,3 +26,6 @@ Change Kubeconfig file
 ```sh
 export KUBECONFIG=/path/to/admin.conf
 ```
+
+### Useful link
+[Add metrics in CIVO](https://www.civo.com/marketplace/metrics-server)
